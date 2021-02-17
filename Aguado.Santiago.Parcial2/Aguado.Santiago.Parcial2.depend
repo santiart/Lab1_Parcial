@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1613567583 source:c:\users\santiagomatias\desktop\aguado.santiago.parcial2\aguado.santiago.parcial2\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"input.h"
+
+1563322519 c:\users\santiagomatias\desktop\aguado.santiago.parcial2\aguado.santiago.parcial2\input.h
+
+1613570222 source:c:\users\santiagomatias\desktop\aguado.santiago.parcial2\aguado.santiago.parcial2\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"parser.h"
+	"Envio.h"
+	"input.h"
+	"controller.h"
+
+1563322101 c:\users\santiagomatias\desktop\aguado.santiago.parcial2\aguado.santiago.parcial2\linkedlist.h
+
+1563322523 c:\users\santiagomatias\desktop\aguado.santiago.parcial2\aguado.santiago.parcial2\parser.h
+
+1613567180 c:\users\santiagomatias\desktop\aguado.santiago.parcial2\aguado.santiago.parcial2\envio.h
+
+1613567033 c:\users\santiagomatias\desktop\aguado.santiago.parcial2\aguado.santiago.parcial2\controller.h
+	"LinkedList.h"
+
+1613568023 source:c:\users\santiagomatias\desktop\aguado.santiago.parcial2\aguado.santiago.parcial2\envio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Envio.h"
+
+1613565774 source:c:\users\santiagomatias\desktop\aguado.santiago.parcial2\aguado.santiago.parcial2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"parser.h"
+	"Envio.h"
+
+1613565782 source:c:\users\santiagomatias\desktop\aguado.santiago.parcial2\aguado.santiago.parcial2\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"parser.h"
+	"Envio.h"
+	"input.h"
+
+1613569518 source:c:\users\santiagomatias\desktop\aguado.santiago.parcial2\aguado.santiago.parcial2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Envio.h"
+	"controller.h"
+	"input.h"
+
